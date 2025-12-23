@@ -1,0 +1,8 @@
+EVERYTHING THAT I WILL STUDY IN ASTROPHYSICS I WILL TRY TO IMPLEMENT IT IN FORM OF CODE 
+IF U WANT TO COMPILE AND TEST IT 
+#Requirements- -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+#TO RUN
+```
+g++ ANYFILE_U_CHOOSE.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o SCRIPTNAME_U_WANT_TO_CHOOSE
+./SCRIPTNAME_U_WANT_TO_CHOOSE
+```
